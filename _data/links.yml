@@ -1,28 +1,4 @@
 fixed-button-width: false # Set to true/false
 icon-position: left # Set to left/right
 buttons:
-  - category: Links
-    items:
-    - title: Divest From Twitch
-      url: https://streetcatlove.github.io/hellostreetcat/divest
-      icon: tdesign:chat-message # Icons are optional
 
-    - title: Street Cat Love Youtube | Hello Street Cat Archive & Edits | 9 Feeders LIVE
-      url: https://www.youtube.com/@street_cat_love
-      icon: tdesign:film # Icons are optional
-    
-    - title: Street Cat Projects Directory
-      url: https://streetcatlove.github.io/proj
-      icon: tdesign:folder # Icons are optional
-
-    - title: Hello Street Cat Fanpage
-      url: https://streetcatlove.github.io/hellostreetcat/
-      icon: tdesign:cat # Icons are optional
-
-    - title: Street Cat's Recommended Outlets
-      url: https://streetcatlove.github.io/recs/
-      icon: tdesign:video-library # Icons are optional
-
-    - title: Street Cat Love Photo Blog
-      url: https://streetcatlove.github.io/photo/
-      icon: tdesign:camera # Icons are optional
